@@ -40,6 +40,3 @@ Movie and streaming information is provided by the Watchmode API. CineScope is a
 
 ## Developer
 Esha Rawal
-
-
-Movie and streaming information is provided by the Watchmode API. CineScope is an independent project and is not affiliated with or endorsed by Watchmode.
