@@ -19,27 +19,6 @@ CineScope is a full-stack movie discovery application built with React, Node.js,
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **API:** Watchmode
-
-## Getting Started
-
-### Backend
-
-```bash
-cd server
-npm install
-
-## Frontend
-cd client
-npm install
-npm run dev
-
-## Create server/.env:
-
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-Watch_MODE_API=your_watchmode_api_key
-CLIENT_URL=http://localhost:5173
-
 ## API Endpoint
 
 | Method | Endpoint                 | Description          |
@@ -61,6 +40,9 @@ AI tools were used only as a supporting reference during development. The applic
 ## Data Source
 
 Movie and streaming information is provided by the Watchmode API. CineScope is an independent project and is not affiliated with or endorsed by Watchmode.
+
+## Developer
+Esha Rawal
 
 
 
