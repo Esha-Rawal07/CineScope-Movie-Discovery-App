@@ -33,17 +33,13 @@ CineScope is a full-stack movie discovery application built with React, Node.js,
 
 ## AI Usage
 
-## AI Usage
-
 AI tools were used only as a supporting reference during development. The application was designed, implemented, reviewed, and tested by me.
 
 ## Data Source
-
 Movie and streaming information is provided by the Watchmode API. CineScope is an independent project and is not affiliated with or endorsed by Watchmode.
 
 ## Developer
 Esha Rawal
 
 
-        |
-               +---- Wishlist
+Movie and streaming information is provided by the Watchmode API. CineScope is an independent project and is not affiliated with or endorsed by Watchmode.
